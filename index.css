@@ -3,11 +3,28 @@ body{
 	color: black;
 }
 h2{
-	background-color: green;
+	background-color: white;
   width: 100px;
-  border: 15px white;
+  border: 20px red;
   padding: 20px;
   margin: 20px;
+  border-radius: 30px;
 }
+.container div {
+	 background-color: white;
+	 margin: 10px;
+	 padding: 20px;
+	 font-size: 20px;
+	 color: red;
+	 border-radius: 20px;
+	 font-size: 30px;
+}
+.container {
+	 display: flex;
+	 justify-content: center;
+	 justify-content: space-evenly;
+	 background-color: orange;
+}
+      
 
 
